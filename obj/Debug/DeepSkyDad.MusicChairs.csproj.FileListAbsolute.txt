@@ -1,0 +1,6 @@
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\bin\Debug\DeepSkyDad.MusicChairs.exe.config
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\bin\Debug\DeepSkyDad.MusicChairs.exe
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\bin\Debug\DeepSkyDad.MusicChairs.pdb
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\obj\Debug\DeepSkyDad.MusicChairs.csprojAssemblyReference.cache
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\obj\Debug\DeepSkyDad.MusicChairs.exe
+D:\Projects\DeepSkyDad.MusicChairs\DeepSkyDad.MusicChairs\obj\Debug\DeepSkyDad.MusicChairs.pdb
