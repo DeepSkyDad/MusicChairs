@@ -27,10 +27,10 @@ namespace DeepSkyDad.MusicChairs
 
             while (true)
             {
-                var playDuratino = rnd.Next(10, 20);
-                Thread.Sleep(rnd.Next(10, 20));
+                Thread.Sleep(rnd.Next(10000, 20000));
                 keybd_event(PLAY_PAUSE, 0, 1, IntPtr.Zero);
-                Thread.Sleep(rnd.Next(2, 8));
+                Thread.Sleep(rnd.Next(2000, 8000));
+                keybd_event(PLAY_PAUSE, 0, 1, IntPtr.Zero);
             }
             
         }
